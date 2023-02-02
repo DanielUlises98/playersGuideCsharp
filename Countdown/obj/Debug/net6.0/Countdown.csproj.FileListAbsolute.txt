@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\Countdown\bin\Debug\net6.0\Countdown.exe
+C:\Users\danie\source\repos\Countdown\bin\Debug\net6.0\Countdown.deps.json
+C:\Users\danie\source\repos\Countdown\bin\Debug\net6.0\Countdown.runtimeconfig.json
+C:\Users\danie\source\repos\Countdown\bin\Debug\net6.0\Countdown.dll
+C:\Users\danie\source\repos\Countdown\bin\Debug\net6.0\Countdown.pdb
+C:\Users\danie\source\repos\Countdown\obj\Debug\net6.0\Countdown.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Countdown\obj\Debug\net6.0\Countdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Countdown\obj\Debug\net6.0\Countdown.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Countdown\obj\Debug\net6.0\Countdown.AssemblyInfo.cs
+C:\Users\danie\source\repos\Countdown\obj\Debug\net6.0\Countdown.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Countdown\obj\Debug\net6.0\Countdown.dll
+C:\Users\danie\source\repos\Countdown\obj\Debug\net6.0\refint\Countdown.dll
+C:\Users\danie\source\repos\Countdown\obj\Debug\net6.0\Countdown.pdb
+C:\Users\danie\source\repos\Countdown\obj\Debug\net6.0\Countdown.genruntimeconfig.cache
+C:\Users\danie\source\repos\Countdown\obj\Debug\net6.0\ref\Countdown.dll

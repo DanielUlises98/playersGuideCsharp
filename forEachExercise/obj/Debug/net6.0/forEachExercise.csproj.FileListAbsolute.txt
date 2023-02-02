@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\forEachExercise\bin\Debug\net6.0\forEachExercise.exe
+C:\Users\danie\source\repos\forEachExercise\bin\Debug\net6.0\forEachExercise.deps.json
+C:\Users\danie\source\repos\forEachExercise\bin\Debug\net6.0\forEachExercise.runtimeconfig.json
+C:\Users\danie\source\repos\forEachExercise\bin\Debug\net6.0\forEachExercise.dll
+C:\Users\danie\source\repos\forEachExercise\bin\Debug\net6.0\forEachExercise.pdb
+C:\Users\danie\source\repos\forEachExercise\obj\Debug\net6.0\forEachExercise.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\forEachExercise\obj\Debug\net6.0\forEachExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\forEachExercise\obj\Debug\net6.0\forEachExercise.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\forEachExercise\obj\Debug\net6.0\forEachExercise.AssemblyInfo.cs
+C:\Users\danie\source\repos\forEachExercise\obj\Debug\net6.0\forEachExercise.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\forEachExercise\obj\Debug\net6.0\forEachExercise.dll
+C:\Users\danie\source\repos\forEachExercise\obj\Debug\net6.0\refint\forEachExercise.dll
+C:\Users\danie\source\repos\forEachExercise\obj\Debug\net6.0\forEachExercise.pdb
+C:\Users\danie\source\repos\forEachExercise\obj\Debug\net6.0\forEachExercise.genruntimeconfig.cache
+C:\Users\danie\source\repos\forEachExercise\obj\Debug\net6.0\ref\forEachExercise.dll

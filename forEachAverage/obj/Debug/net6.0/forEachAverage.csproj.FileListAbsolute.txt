@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\forEachAverage\bin\Debug\net6.0\forEachAverage.exe
+C:\Users\danie\source\repos\forEachAverage\bin\Debug\net6.0\forEachAverage.deps.json
+C:\Users\danie\source\repos\forEachAverage\bin\Debug\net6.0\forEachAverage.runtimeconfig.json
+C:\Users\danie\source\repos\forEachAverage\bin\Debug\net6.0\forEachAverage.dll
+C:\Users\danie\source\repos\forEachAverage\bin\Debug\net6.0\forEachAverage.pdb
+C:\Users\danie\source\repos\forEachAverage\obj\Debug\net6.0\forEachAverage.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\forEachAverage\obj\Debug\net6.0\forEachAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\forEachAverage\obj\Debug\net6.0\forEachAverage.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\forEachAverage\obj\Debug\net6.0\forEachAverage.AssemblyInfo.cs
+C:\Users\danie\source\repos\forEachAverage\obj\Debug\net6.0\forEachAverage.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\forEachAverage\obj\Debug\net6.0\forEachAverage.dll
+C:\Users\danie\source\repos\forEachAverage\obj\Debug\net6.0\refint\forEachAverage.dll
+C:\Users\danie\source\repos\forEachAverage\obj\Debug\net6.0\forEachAverage.pdb
+C:\Users\danie\source\repos\forEachAverage\obj\Debug\net6.0\forEachAverage.genruntimeconfig.cache
+C:\Users\danie\source\repos\forEachAverage\obj\Debug\net6.0\ref\forEachAverage.dll
