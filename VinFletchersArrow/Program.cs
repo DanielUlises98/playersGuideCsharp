@@ -19,9 +19,9 @@ do
 
 class Arrow
 {
-    public float shaftLenght;
-    public ArrowHead head;
-    public Fletching tail;
+    private float shaftLenght;
+    private ArrowHead head;
+    private Fletching tail;
     private float arrowHeadPrice;
     private float tailPrice;
     public Arrow(ArrowHead head, float shaftLenght, Fletching tail)
@@ -48,9 +48,12 @@ class Arrow
             tailPrice = 5;
         }else
             tailPrice = 3;
-
-
     }
+    public float GetShaftLenght() => shaftLenght;
+    public float GetTailPrice() => tailPrice;
+    public float GetArrowHeadPrice() => arrowHeadPrice;
+    public ArrowHead GetArrowHead() => head;
+    public Fletching GetFletching() => tail;
     public float GetCost() => (arrowHeadPrice + tailPrice) + (shaftLenght * 0.05f);
 }
 
