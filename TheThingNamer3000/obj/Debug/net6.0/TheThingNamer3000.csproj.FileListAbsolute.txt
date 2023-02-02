@@ -1,0 +1,15 @@
+C:\Users\mendo\source\repos\TheThingNamer3000\bin\Debug\net6.0\TheThingNamer3000.exe
+C:\Users\mendo\source\repos\TheThingNamer3000\bin\Debug\net6.0\TheThingNamer3000.deps.json
+C:\Users\mendo\source\repos\TheThingNamer3000\bin\Debug\net6.0\TheThingNamer3000.runtimeconfig.json
+C:\Users\mendo\source\repos\TheThingNamer3000\bin\Debug\net6.0\TheThingNamer3000.dll
+C:\Users\mendo\source\repos\TheThingNamer3000\bin\Debug\net6.0\TheThingNamer3000.pdb
+C:\Users\mendo\source\repos\TheThingNamer3000\obj\Debug\net6.0\TheThingNamer3000.csproj.AssemblyReference.cache
+C:\Users\mendo\source\repos\TheThingNamer3000\obj\Debug\net6.0\TheThingNamer3000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mendo\source\repos\TheThingNamer3000\obj\Debug\net6.0\TheThingNamer3000.AssemblyInfoInputs.cache
+C:\Users\mendo\source\repos\TheThingNamer3000\obj\Debug\net6.0\TheThingNamer3000.AssemblyInfo.cs
+C:\Users\mendo\source\repos\TheThingNamer3000\obj\Debug\net6.0\TheThingNamer3000.csproj.CoreCompileInputs.cache
+C:\Users\mendo\source\repos\TheThingNamer3000\obj\Debug\net6.0\TheThingNamer3000.dll
+C:\Users\mendo\source\repos\TheThingNamer3000\obj\Debug\net6.0\refint\TheThingNamer3000.dll
+C:\Users\mendo\source\repos\TheThingNamer3000\obj\Debug\net6.0\TheThingNamer3000.pdb
+C:\Users\mendo\source\repos\TheThingNamer3000\obj\Debug\net6.0\TheThingNamer3000.genruntimeconfig.cache
+C:\Users\mendo\source\repos\TheThingNamer3000\obj\Debug\net6.0\ref\TheThingNamer3000.dll

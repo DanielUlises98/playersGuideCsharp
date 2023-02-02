@@ -1,0 +1,15 @@
+C:\Users\mendo\source\repos\TheFourSistersAndTheDuckbear\bin\Debug\net6.0\TheFourSistersAndTheDuckbear.exe
+C:\Users\mendo\source\repos\TheFourSistersAndTheDuckbear\bin\Debug\net6.0\TheFourSistersAndTheDuckbear.deps.json
+C:\Users\mendo\source\repos\TheFourSistersAndTheDuckbear\bin\Debug\net6.0\TheFourSistersAndTheDuckbear.runtimeconfig.json
+C:\Users\mendo\source\repos\TheFourSistersAndTheDuckbear\bin\Debug\net6.0\TheFourSistersAndTheDuckbear.dll
+C:\Users\mendo\source\repos\TheFourSistersAndTheDuckbear\bin\Debug\net6.0\TheFourSistersAndTheDuckbear.pdb
+C:\Users\mendo\source\repos\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.csproj.AssemblyReference.cache
+C:\Users\mendo\source\repos\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mendo\source\repos\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.AssemblyInfoInputs.cache
+C:\Users\mendo\source\repos\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.AssemblyInfo.cs
+C:\Users\mendo\source\repos\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.csproj.CoreCompileInputs.cache
+C:\Users\mendo\source\repos\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.dll
+C:\Users\mendo\source\repos\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\refint\TheFourSistersAndTheDuckbear.dll
+C:\Users\mendo\source\repos\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.pdb
+C:\Users\mendo\source\repos\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.genruntimeconfig.cache
+C:\Users\mendo\source\repos\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\ref\TheFourSistersAndTheDuckbear.dll

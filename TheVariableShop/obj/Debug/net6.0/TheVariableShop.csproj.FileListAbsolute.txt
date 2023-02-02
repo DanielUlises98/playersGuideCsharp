@@ -1,0 +1,15 @@
+C:\Users\mendo\source\repos\TheVariableShop\bin\Debug\net6.0\TheVariableShop.exe
+C:\Users\mendo\source\repos\TheVariableShop\bin\Debug\net6.0\TheVariableShop.deps.json
+C:\Users\mendo\source\repos\TheVariableShop\bin\Debug\net6.0\TheVariableShop.runtimeconfig.json
+C:\Users\mendo\source\repos\TheVariableShop\bin\Debug\net6.0\TheVariableShop.dll
+C:\Users\mendo\source\repos\TheVariableShop\bin\Debug\net6.0\TheVariableShop.pdb
+C:\Users\mendo\source\repos\TheVariableShop\obj\Debug\net6.0\TheVariableShop.csproj.AssemblyReference.cache
+C:\Users\mendo\source\repos\TheVariableShop\obj\Debug\net6.0\TheVariableShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mendo\source\repos\TheVariableShop\obj\Debug\net6.0\TheVariableShop.AssemblyInfoInputs.cache
+C:\Users\mendo\source\repos\TheVariableShop\obj\Debug\net6.0\TheVariableShop.AssemblyInfo.cs
+C:\Users\mendo\source\repos\TheVariableShop\obj\Debug\net6.0\TheVariableShop.csproj.CoreCompileInputs.cache
+C:\Users\mendo\source\repos\TheVariableShop\obj\Debug\net6.0\TheVariableShop.dll
+C:\Users\mendo\source\repos\TheVariableShop\obj\Debug\net6.0\refint\TheVariableShop.dll
+C:\Users\mendo\source\repos\TheVariableShop\obj\Debug\net6.0\TheVariableShop.pdb
+C:\Users\mendo\source\repos\TheVariableShop\obj\Debug\net6.0\TheVariableShop.genruntimeconfig.cache
+C:\Users\mendo\source\repos\TheVariableShop\obj\Debug\net6.0\ref\TheVariableShop.dll

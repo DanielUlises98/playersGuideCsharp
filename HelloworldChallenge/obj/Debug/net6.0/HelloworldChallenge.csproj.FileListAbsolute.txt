@@ -1,0 +1,15 @@
+C:\Users\mendo\source\repos\HelloworldChallenge\bin\Debug\net6.0\HelloworldChallenge.exe
+C:\Users\mendo\source\repos\HelloworldChallenge\bin\Debug\net6.0\HelloworldChallenge.deps.json
+C:\Users\mendo\source\repos\HelloworldChallenge\bin\Debug\net6.0\HelloworldChallenge.runtimeconfig.json
+C:\Users\mendo\source\repos\HelloworldChallenge\bin\Debug\net6.0\HelloworldChallenge.dll
+C:\Users\mendo\source\repos\HelloworldChallenge\bin\Debug\net6.0\HelloworldChallenge.pdb
+C:\Users\mendo\source\repos\HelloworldChallenge\obj\Debug\net6.0\HelloworldChallenge.csproj.AssemblyReference.cache
+C:\Users\mendo\source\repos\HelloworldChallenge\obj\Debug\net6.0\HelloworldChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mendo\source\repos\HelloworldChallenge\obj\Debug\net6.0\HelloworldChallenge.AssemblyInfoInputs.cache
+C:\Users\mendo\source\repos\HelloworldChallenge\obj\Debug\net6.0\HelloworldChallenge.AssemblyInfo.cs
+C:\Users\mendo\source\repos\HelloworldChallenge\obj\Debug\net6.0\HelloworldChallenge.csproj.CoreCompileInputs.cache
+C:\Users\mendo\source\repos\HelloworldChallenge\obj\Debug\net6.0\HelloworldChallenge.dll
+C:\Users\mendo\source\repos\HelloworldChallenge\obj\Debug\net6.0\refint\HelloworldChallenge.dll
+C:\Users\mendo\source\repos\HelloworldChallenge\obj\Debug\net6.0\HelloworldChallenge.pdb
+C:\Users\mendo\source\repos\HelloworldChallenge\obj\Debug\net6.0\HelloworldChallenge.genruntimeconfig.cache
+C:\Users\mendo\source\repos\HelloworldChallenge\obj\Debug\net6.0\ref\HelloworldChallenge.dll

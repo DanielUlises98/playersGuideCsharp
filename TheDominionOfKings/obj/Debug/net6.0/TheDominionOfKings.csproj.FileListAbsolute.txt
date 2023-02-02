@@ -1,0 +1,15 @@
+C:\Users\mendo\source\repos\TheDominionOfKings\bin\Debug\net6.0\TheDominionOfKings.exe
+C:\Users\mendo\source\repos\TheDominionOfKings\bin\Debug\net6.0\TheDominionOfKings.deps.json
+C:\Users\mendo\source\repos\TheDominionOfKings\bin\Debug\net6.0\TheDominionOfKings.runtimeconfig.json
+C:\Users\mendo\source\repos\TheDominionOfKings\bin\Debug\net6.0\TheDominionOfKings.dll
+C:\Users\mendo\source\repos\TheDominionOfKings\bin\Debug\net6.0\TheDominionOfKings.pdb
+C:\Users\mendo\source\repos\TheDominionOfKings\obj\Debug\net6.0\TheDominionOfKings.csproj.AssemblyReference.cache
+C:\Users\mendo\source\repos\TheDominionOfKings\obj\Debug\net6.0\TheDominionOfKings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mendo\source\repos\TheDominionOfKings\obj\Debug\net6.0\TheDominionOfKings.AssemblyInfoInputs.cache
+C:\Users\mendo\source\repos\TheDominionOfKings\obj\Debug\net6.0\TheDominionOfKings.AssemblyInfo.cs
+C:\Users\mendo\source\repos\TheDominionOfKings\obj\Debug\net6.0\TheDominionOfKings.csproj.CoreCompileInputs.cache
+C:\Users\mendo\source\repos\TheDominionOfKings\obj\Debug\net6.0\TheDominionOfKings.dll
+C:\Users\mendo\source\repos\TheDominionOfKings\obj\Debug\net6.0\refint\TheDominionOfKings.dll
+C:\Users\mendo\source\repos\TheDominionOfKings\obj\Debug\net6.0\TheDominionOfKings.pdb
+C:\Users\mendo\source\repos\TheDominionOfKings\obj\Debug\net6.0\TheDominionOfKings.genruntimeconfig.cache
+C:\Users\mendo\source\repos\TheDominionOfKings\obj\Debug\net6.0\ref\TheDominionOfKings.dll

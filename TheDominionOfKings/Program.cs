@@ -1,0 +1,10 @@
+﻿Console.WriteLine("how many provinces do you have?");
+int provinces = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("How many duchies do you have?");
+int duchies = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("How many estates do you have?");
+int estates = Convert.ToInt32(Console.ReadLine());
+estates += 1;
+duchies+= 3;
+provinces += 6;
+Console.WriteLine("estates:"+estates+"\n duchies:"+duchies+"\n provinces:"+provinces);
