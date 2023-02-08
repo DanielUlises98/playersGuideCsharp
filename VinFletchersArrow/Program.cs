@@ -1,60 +1,98 @@
 ﻿// See https://aka.ms/new-console-template for more information
 do
 {
-    ArrowHead head;
-    Fletching tail;
-    Console.WriteLine("Hello, World!");
-    Console.WriteLine("Choose arrow head, 1: steel, 2: wood, 3: obsidian");
-    head = (ArrowHead)int.Parse(Console.ReadLine()) - 1;
-    Console.WriteLine("Choose arrow fletching, 1: plastic, 2: turkey feathers, 3: goose feathers");
-    tail = (Fletching)int.Parse(Console.ReadLine()) - 1;
-    Console.WriteLine("Chosse the lenght of the shaft?");
-    float lenght = float.Parse(Console.ReadLine());
-    if (lenght >= 60 || lenght <= 100)
+
+    Console.WriteLine("Press 1 for Elite Arrow, 2 for Begginer Arrow, 3 Marksman arrowm, 4 for custom Arrow");
+    int arrowChoice = int.Parse(Console.ReadLine());
+    switch (arrowChoice)
     {
-        Arrow arr = new Arrow(head, lenght, tail);
-        Console.WriteLine($"The price of the arrow is ${arr.GetCost()}");
+        case 1:
+            CustomArrow(0,95,0);
+            break;
+        case 2:
+            CustomArrow((ArrowHead)1, 75, (Fletching)1);
+            break;
+        case 3:
+            CustomArrow(0, 65, (Fletching)1);
+            break;
+        case 4:
+            ArrowHead head;
+            Fletching tail;
+            float lenght;
+            Console.WriteLine("Choose arrow head, 1: steel, 2: wood, 3: obsidian");
+            head = (ArrowHead)int.Parse(Console.ReadLine()) - 1;
+            Console.WriteLine("Choose arrow fletching, 1: plastic, 2: turkey feathers, 3: goose feathers");
+            tail = (Fletching)int.Parse(Console.ReadLine()) - 1;
+            do
+            {
+                Console.WriteLine("Chosse the lenght of the shaft?(In the range of 60 up to 100)");
+                lenght = float.Parse(Console.ReadLine());
+            }
+            while (lenght <= 60 || lenght >= 100);
+            Arrow arr = new Arrow(head, lenght, tail);
+            ArrowPrice(arr);
+            break;
+        default:
+            Console.WriteLine("Please choose a valid options in the range of 1 to 4");
+            break;
     }
+
 } while (true);
 
+void CustomArrow(ArrowHead head, float lenght, Fletching tail)
+{
+    Arrow arrow = Arrow.CreateEliteArrow(head, lenght, tail);
+    ArrowPrice(arrow);
+}
+void ArrowPrice(Arrow arr)
+{
+    Console.WriteLine($"The price of the arrow is ${arr.GetCost()}");
+}
 class Arrow
 {
-    private float shaftLenght;
-    private ArrowHead head;
-    private Fletching tail;
-    private float arrowHeadPrice;
-    private float tailPrice;
+    public float ShaftLenght { get; set; }
+    public ArrowHead Head { get; set; }
+    public Fletching Fletching { get; set; }
+    public float ArrowHeadPrice { get; set; }
+    public float TailPrice { get; set; }
+    public float GetCost() => (ArrowHeadPrice + TailPrice) + (ShaftLenght * 0.05f);
+
     public Arrow(ArrowHead head, float shaftLenght, Fletching tail)
     {   
-        this.head = head;
-        this.tail = tail;
-        this.shaftLenght = shaftLenght;
+        Head = head;
+        Fletching = tail;
+        ShaftLenght = shaftLenght;
+        InitProperties(head, tail);
+    }
 
+    public static Arrow CreateEliteArrow(ArrowHead head,float shaftLenght, Fletching tail) => new Arrow(head,shaftLenght, tail);
+    public static Arrow CreateBegginerArrow(ArrowHead head,float shaftLenght, Fletching tail) => new Arrow(head,shaftLenght, tail);
+    public static Arrow CreateMarksmanArrow(ArrowHead head, float shaftLenght, Fletching tail) => new Arrow(head, shaftLenght, tail);
+
+    public void InitProperties(ArrowHead head, Fletching tail)
+    {
         if (head == 0)
         {
-            arrowHeadPrice = 10;
+            ArrowHeadPrice = 10;
         }
         else if (head == (ArrowHead)1)
         {
-            arrowHeadPrice = 3;
+            ArrowHeadPrice = 3;
         }
         else
-            arrowHeadPrice = 5;
+            ArrowHeadPrice = 5;
 
         if (tail == 0)
         {
-            tailPrice = 10;
-        }else if (tail == (Fletching)1) {
-            tailPrice = 5;
-        }else
-            tailPrice = 3;
+            TailPrice = 10;
+        }
+        else if (tail == (Fletching)1)
+        {
+            TailPrice = 5;
+        }
+        else
+            TailPrice = 3;
     }
-    public float GetShaftLenght() => shaftLenght;
-    public float GetTailPrice() => tailPrice;
-    public float GetArrowHeadPrice() => arrowHeadPrice;
-    public ArrowHead GetArrowHead() => head;
-    public Fletching GetFletching() => tail;
-    public float GetCost() => (arrowHeadPrice + tailPrice) + (shaftLenght * 0.05f);
 }
 
 enum ArrowHead{
