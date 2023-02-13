@@ -1,0 +1,15 @@
+C:\Users\mendo\OneDrive\Documentos\PlayersGuide\CatacombsOfTheClass\bin\Debug\net6.0\CatacombsOfTheClass.exe
+C:\Users\mendo\OneDrive\Documentos\PlayersGuide\CatacombsOfTheClass\bin\Debug\net6.0\CatacombsOfTheClass.deps.json
+C:\Users\mendo\OneDrive\Documentos\PlayersGuide\CatacombsOfTheClass\bin\Debug\net6.0\CatacombsOfTheClass.runtimeconfig.json
+C:\Users\mendo\OneDrive\Documentos\PlayersGuide\CatacombsOfTheClass\bin\Debug\net6.0\CatacombsOfTheClass.dll
+C:\Users\mendo\OneDrive\Documentos\PlayersGuide\CatacombsOfTheClass\bin\Debug\net6.0\CatacombsOfTheClass.pdb
+C:\Users\mendo\OneDrive\Documentos\PlayersGuide\CatacombsOfTheClass\obj\Debug\net6.0\CatacombsOfTheClass.csproj.AssemblyReference.cache
+C:\Users\mendo\OneDrive\Documentos\PlayersGuide\CatacombsOfTheClass\obj\Debug\net6.0\CatacombsOfTheClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mendo\OneDrive\Documentos\PlayersGuide\CatacombsOfTheClass\obj\Debug\net6.0\CatacombsOfTheClass.AssemblyInfoInputs.cache
+C:\Users\mendo\OneDrive\Documentos\PlayersGuide\CatacombsOfTheClass\obj\Debug\net6.0\CatacombsOfTheClass.AssemblyInfo.cs
+C:\Users\mendo\OneDrive\Documentos\PlayersGuide\CatacombsOfTheClass\obj\Debug\net6.0\CatacombsOfTheClass.csproj.CoreCompileInputs.cache
+C:\Users\mendo\OneDrive\Documentos\PlayersGuide\CatacombsOfTheClass\obj\Debug\net6.0\CatacombsOfTheClass.dll
+C:\Users\mendo\OneDrive\Documentos\PlayersGuide\CatacombsOfTheClass\obj\Debug\net6.0\refint\CatacombsOfTheClass.dll
+C:\Users\mendo\OneDrive\Documentos\PlayersGuide\CatacombsOfTheClass\obj\Debug\net6.0\CatacombsOfTheClass.pdb
+C:\Users\mendo\OneDrive\Documentos\PlayersGuide\CatacombsOfTheClass\obj\Debug\net6.0\CatacombsOfTheClass.genruntimeconfig.cache
+C:\Users\mendo\OneDrive\Documentos\PlayersGuide\CatacombsOfTheClass\obj\Debug\net6.0\ref\CatacombsOfTheClass.dll
