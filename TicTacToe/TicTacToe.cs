@@ -78,7 +78,16 @@ namespace TicTacToe
         }
         private void WhoWon()
         {
-            for(int i = 0, j = 0; i <= 3; i++, j += 3)
+            if (ticTacToe[0] == ticTacToe[4] && ticTacToe[0] == ticTacToe[8]) 
+            {
+
+            }
+            if (ticTacToe[0] == ticTacToe[4] && ticTacToe[0] == ticTacToe[8])
+            {
+
+            }
+
+                for (int i = 0, j = 0; i <= 3; i++, j += 3)
             {
                 if (ticTacToe[j] == ticTacToe[j+1] && ticTacToe[j+1] == ticTacToe[j+2]) {
                     Console.WriteLine("Player One wone");
@@ -90,6 +99,7 @@ namespace TicTacToe
                     return;
                 }
             }
+
         }
     }
 }
