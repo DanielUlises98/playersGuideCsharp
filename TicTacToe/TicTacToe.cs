@@ -9,6 +9,16 @@ namespace TicTacToe
     internal class TTT
     {
         private char[] ticTacToe = new char[9];
+       
+        public TTT()
+        {   
+            int initArray = 0;
+            foreach(char c in ticTacToe)
+            {
+                ticTacToe[initArray] = (char)initArray;
+                initArray++;
+            }
+        }
         public void DrawScenary()
         {
             Console.WriteLine(" ");
@@ -63,24 +73,23 @@ namespace TicTacToe
         }
         private bool IsAlreadyTaken(int selection)
         {
-            if (ticTacToe[selection - 1] != (char)0) return true;
+            if (ticTacToe[selection - 1].Equals('X') || ticTacToe[selection-1].Equals('0')) return true;
             return false;
         }
         private void WhoWon()
         {
             for(int i = 0, j = 0; i <= 3; i++, j += 3)
             {
-                if (ticTacToe[j] == ticTacToe[i+1] && ticTacToe[i+1] == ticTacToe[i+2]) {
+                if (ticTacToe[j] == ticTacToe[j+1] && ticTacToe[j+1] == ticTacToe[j+2]) {
                     Console.WriteLine("Player One wone");
                     return;
                 }
-                if(ticTacToe[j] == ticTacToe[i + 3] && ticTacToe[i + 6] == ticTacToe[i + 3])
+                if(ticTacToe[i] == ticTacToe[i + 3] && ticTacToe[i + 6] == ticTacToe[i + 3])
                 {
                     Console.WriteLine("Player Wone");
                     return;
                 }
             }
         }
-        
     }
 }
