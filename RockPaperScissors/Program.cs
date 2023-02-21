@@ -1,6 +1,4 @@
-﻿
-
-using RockPaperScissors;
+﻿using RockPaperScissors;
 
 Console.WriteLine("Player One name: ");
 string? pOneName = Console.ReadLine();
