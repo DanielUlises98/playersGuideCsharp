@@ -9,6 +9,7 @@ namespace TicTacToe
     internal class TTT
     {
         private char[] ticTacToe = new char[9];
+        private bool _winner = true;
        
         public TTT()
         {   
@@ -66,6 +67,7 @@ namespace TicTacToe
                 return;
             }
             ticTacToe[selection-1] = whoChose(player);
+           
         }
         private char whoChose(int player)
         {
@@ -80,7 +82,7 @@ namespace TicTacToe
         {
             if (ticTacToe[0] == ticTacToe[4] && ticTacToe[0] == ticTacToe[8]) 
             {
-
+                Console.WriteLine($"Player :{player} won");
             }
             if (ticTacToe[0] == ticTacToe[4] && ticTacToe[0] == ticTacToe[8])
             {
@@ -100,6 +102,15 @@ namespace TicTacToe
                 }
             }
 
+        }
+        private void Winner(bool winner)
+        {
+            if (winner)
+            {
+                Console.WriteLine("Player X wone");
+                return;
+            }
+            Console.WriteLine("Player 0 wone");
         }
     }
 }
