@@ -1,116 +1,66 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace TicTacToe
+﻿namespace TicTacToe
 {
-    internal class TTT
+    public class TTT
     {
-        private char[] ticTacToe = new char[9];
-        private bool _winner = true;
-       
-        public TTT()
-        {   
-            int initArray = 0;
-            foreach(char c in ticTacToe)
-            {
-                ticTacToe[initArray] = (char)initArray;
-                initArray++;
-            }
-        }
-        public void DrawScenary()
-        {
-            Console.WriteLine(" ");
-            WhoWon();
-        }
-        public void Choose(int selection, int player)
-        {
-            switch(selection)
-            {
-                case 1:
-                    AsignValue(selection, player);
-                    break;
-                case 2:
-                    AsignValue(selection, player);
-                    break;
-                case 3:
-                    AsignValue(selection, player);
-                    break;
-                case 4:
-                    AsignValue(selection, player);
-                    break;
-                case 5:
-                    AsignValue(selection, player);
-                    break;
-                case 6:
-                    AsignValue(selection, player);
-                    break;
-                case 7:
-                    AsignValue(selection, player);
-                    break;
-                case 8:
-                    AsignValue(selection, player);
-                    break;
-                case 9:
-                    AsignValue(selection, player);
-                    break;
-            }
-        }
-
-        private void AsignValue(int selection, int player)
+        private char[] _ttt = new char[9];
+        
+        public void Choose(int selection, char player)
         {
             if (IsAlreadyTaken(selection))
             {
-                Console.WriteLine("The position you are trying to write on is alredy taken");
-                return;
+                Console.WriteLine("The position you're trying to choose is already taken");
+                Console.WriteLine("Press any Key to continue");
+                Console.ReadKey();
             }
-            ticTacToe[selection-1] = whoChose(player);
-           
+            else
+                _ttt[selection - 1] = player;
+
+            WhoWon(player);
         }
-        private char whoChose(int player)
-        {
-            return player == 0 ? 'X' : '0';
-        }
+
         private bool IsAlreadyTaken(int selection)
         {
-            if (ticTacToe[selection - 1].Equals('X') || ticTacToe[selection-1].Equals('0')) return true;
+            if (_ttt[selection - 1] == 'O' || _ttt[selection - 1] == 'X') return true;
             return false;
         }
-        private void WhoWon()
+
+        public void DrawScenary()
         {
-            if (ticTacToe[0] == ticTacToe[4] && ticTacToe[0] == ticTacToe[8]) 
-            {
-                Console.WriteLine($"Player :{player} won");
-            }
-            if (ticTacToe[0] == ticTacToe[4] && ticTacToe[0] == ticTacToe[8])
-            {
-
-            }
-
-                for (int i = 0, j = 0; i <= 3; i++, j += 3)
-            {
-                if (ticTacToe[j] == ticTacToe[j+1] && ticTacToe[j+1] == ticTacToe[j+2]) {
-                    Console.WriteLine("Player One wone");
-                    return;
-                }
-                if(ticTacToe[i] == ticTacToe[i + 3] && ticTacToe[i + 6] == ticTacToe[i + 3])
-                {
-                    Console.WriteLine("Player Wone");
-                    return;
-                }
-            }
-
+            Console.WriteLine($" {_ttt[6]} | {_ttt[7]} | {_ttt[8]}");
+            Console.WriteLine("---+---+---");
+            Console.WriteLine($" {_ttt[3]} | {_ttt[4]} | {_ttt[5]}");
+            Console.WriteLine("---+---+---");
+            Console.WriteLine($" {_ttt[0]} | {_ttt[1]} | {_ttt[2]}");
         }
-        private void Winner(bool winner)
+
+        private void WhoWon(char player)
         {
-            if (winner)
+            if (_ttt[0] == _ttt[4] && _ttt[0] == _ttt[8] && _ttt[0] != '\0')
             {
-                Console.WriteLine("Player X wone");
+                Console.WriteLine($"Player {player} won");
                 return;
             }
-            Console.WriteLine("Player 0 wone");
+
+            if (_ttt[2] == _ttt[4] && _ttt[2] == _ttt[6] && _ttt[0] != '\0')
+            {
+                Console.WriteLine($"Player {player} won");
+                return;
+            }
+            for (int i = 0,j=0; i <=3; i++,j+=3)
+            {
+                if (_ttt[j] == _ttt[j + 1] && _ttt[j] == _ttt[j + 2] && _ttt[j] != '\0')
+                {
+                    Console.WriteLine($"Player {player} won");
+                    return;
+                }
+
+                if (_ttt[i] == _ttt[i + 3] && _ttt[i] == _ttt[i + 6] && _ttt[i] != '\0')
+                {
+                    Console.WriteLine($"Player {player} won");
+                    return;
+                }
+            }
         }
     }
 }
+
