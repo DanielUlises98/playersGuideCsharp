@@ -8,14 +8,17 @@ do
 
     Drawer();
     int selection = int.Parse(Console.ReadLine());
-    t.Choose(selection, currentPlayer);
-    if (t.WhoWon(currentPlayer))
+
+    if (t.Choose(selection, currentPlayer))
+    {
+        currentPlayer = WhoPlayer(currentPlayer);
+        i++;
+    }
+    if (t.WhoWon(WhoPlayer(currentPlayer)))
     {
         Drawer();
         break;
     }
-    currentPlayer = WhoPlayer(currentPlayer);
-    i++;
 }while(i<9);
 Console.WriteLine("Draw/Cat");
 

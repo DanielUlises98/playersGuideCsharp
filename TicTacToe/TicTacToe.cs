@@ -4,16 +4,20 @@
     {
         private char[] _ttt = new char[9];
         
-        public void Choose(int selection, char player)
+        public bool Choose(int selection, char player)
         {
             if (IsAlreadyTaken(selection))
             {
                 Console.WriteLine("The position you're trying to choose is already taken");
                 Console.WriteLine("Press any Key to continue");
                 Console.ReadKey();
+                return false;
             }
             else
                 _ttt[selection - 1] = player;
+            
+            return true;
+            
         }
 
         private bool IsAlreadyTaken(int selection)
