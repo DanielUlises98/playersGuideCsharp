@@ -15,14 +15,16 @@
             }
             else
                 _ttt[selection - 1] = player;
-            
+
             return true;
             
         }
 
         private bool IsAlreadyTaken(int selection)
         {
-            if (_ttt[selection - 1] == 'O' || _ttt[selection - 1] == 'X') return true;
+            if (_ttt[selection - 1] == 'O' || _ttt[selection - 1] == 'X') 
+                return true;
+
             return false;
         }
 
