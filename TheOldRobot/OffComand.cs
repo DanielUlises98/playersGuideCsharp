@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace TheOldRobot
 {
-    internal class OffComand:RobotCommand
+    internal class OffComand:IRobotCommand
     {
-        public override void Run(Robot robot)
+        public void Run(Robot robot)
         {
             robot.IsPowered = false;
         }

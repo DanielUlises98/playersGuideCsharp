@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace TheOldRobot
 {
-    internal abstract class RobotCommand
+     interface IRobotCommand
     {
-        public abstract void Run(Robot robot);
+         void Run(Robot robot);
     }
 }
