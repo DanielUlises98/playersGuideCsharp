@@ -18,6 +18,7 @@ do
     Console.WriteLine("[4] Water, Weight: 2 volume of 3");
     Console.WriteLine("[5] Food Rations, Weight: 1 volume of 0.5");
     Console.WriteLine("[6] Sword, Weight: 5 volume of 3");
+    Console.WriteLine(pack.ToString());
     int selection = int.Parse(Console.ReadLine());
     Console.Clear();
     switch (selection)
@@ -67,4 +68,5 @@ void IsFull(bool full)
 {
     if (!full)
         Console.WriteLine($"The Pack is full, you can't add more items");
+
 }

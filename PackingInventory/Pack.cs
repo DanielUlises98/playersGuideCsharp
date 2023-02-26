@@ -38,6 +38,17 @@ namespace PackingInventory
             _itemCount++;
             return true;
         }
+        public override string ToString()
+        {
+            string inventory = "Pack containing ";
+            foreach(InventoryItem item in Items)
+            {
+                if (item == null)
+                    break;
+                inventory += "\n"+item.ToString();
+            }
+            return inventory;
+        }
         public float GetMaxWeight() { return MaxWeight; }
         public float GetMaxVolume() { return MaxVolume;}
         public int GetMaxItems() { return MaxItems;}
