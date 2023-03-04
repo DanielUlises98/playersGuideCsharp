@@ -4,7 +4,7 @@ Coordinate coordinate = new Coordinate(4,4);
 Coordinate coordinate2 = new Coordinate(5,5);
 if (coordinate.AreTheyClose(coordinate2))
     Console.WriteLine("Coordinates are close");
-public struct Coordinate
+public readonly struct Coordinate
 {
     private readonly int x;
     private readonly int y;
