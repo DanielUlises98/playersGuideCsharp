@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mendo\\OneDrive\\Documentos\\PlayersGuide\\ConsoleApp1\\Room_Coordinate.csproj",
-      "projectName": "Room_Coordinate",
-      "projectPath": "C:\\Users\\mendo\\OneDrive\\Documentos\\PlayersGuide\\ConsoleApp1\\Room_Coordinate.csproj",
+      "projectUniqueName": "C:\\Users\\mendo\\OneDrive\\Documentos\\PlayersGuide\\WarPreparations\\WarPreparations.csproj",
+      "projectName": "WarPreparations",
+      "projectPath": "C:\\Users\\mendo\\OneDrive\\Documentos\\PlayersGuide\\WarPreparations\\WarPreparations.csproj",
       "packagesPath": "C:\\Users\\mendo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mendo\\OneDrive\\Documentos\\PlayersGuide\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\mendo\\OneDrive\\Documentos\\PlayersGuide\\WarPreparations\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

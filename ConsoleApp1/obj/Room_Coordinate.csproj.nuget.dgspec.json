@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mendo\\OneDrive\\Documentos\\PlayersGuide\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\mendo\\OneDrive\\Documentos\\PlayersGuide\\ConsoleApp1\\Room_Coordinate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mendo\\OneDrive\\Documentos\\PlayersGuide\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\mendo\\OneDrive\\Documentos\\PlayersGuide\\ConsoleApp1\\Room_Coordinate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mendo\\OneDrive\\Documentos\\PlayersGuide\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\mendo\\OneDrive\\Documentos\\PlayersGuide\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\mendo\\OneDrive\\Documentos\\PlayersGuide\\ConsoleApp1\\Room_Coordinate.csproj",
+        "projectName": "Room_Coordinate",
+        "projectPath": "C:\\Users\\mendo\\OneDrive\\Documentos\\PlayersGuide\\ConsoleApp1\\Room_Coordinate.csproj",
         "packagesPath": "C:\\Users\\mendo\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\mendo\\OneDrive\\Documentos\\PlayersGuide\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
