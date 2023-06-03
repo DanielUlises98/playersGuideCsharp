@@ -1,0 +1,15 @@
+C:\Users\mendo\Documents\playersGuideCsharp\ColoredItems(Generics)\bin\Debug\net6.0\ColoredItems(Generics).exe
+C:\Users\mendo\Documents\playersGuideCsharp\ColoredItems(Generics)\bin\Debug\net6.0\ColoredItems(Generics).deps.json
+C:\Users\mendo\Documents\playersGuideCsharp\ColoredItems(Generics)\bin\Debug\net6.0\ColoredItems(Generics).runtimeconfig.json
+C:\Users\mendo\Documents\playersGuideCsharp\ColoredItems(Generics)\bin\Debug\net6.0\ColoredItems(Generics).dll
+C:\Users\mendo\Documents\playersGuideCsharp\ColoredItems(Generics)\bin\Debug\net6.0\ColoredItems(Generics).pdb
+C:\Users\mendo\Documents\playersGuideCsharp\ColoredItems(Generics)\obj\Debug\net6.0\ColoredItems(Generics).csproj.AssemblyReference.cache
+C:\Users\mendo\Documents\playersGuideCsharp\ColoredItems(Generics)\obj\Debug\net6.0\ColoredItems(Generics).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mendo\Documents\playersGuideCsharp\ColoredItems(Generics)\obj\Debug\net6.0\ColoredItems(Generics).AssemblyInfoInputs.cache
+C:\Users\mendo\Documents\playersGuideCsharp\ColoredItems(Generics)\obj\Debug\net6.0\ColoredItems(Generics).AssemblyInfo.cs
+C:\Users\mendo\Documents\playersGuideCsharp\ColoredItems(Generics)\obj\Debug\net6.0\ColoredItems(Generics).csproj.CoreCompileInputs.cache
+C:\Users\mendo\Documents\playersGuideCsharp\ColoredItems(Generics)\obj\Debug\net6.0\ColoredItems(Generics).dll
+C:\Users\mendo\Documents\playersGuideCsharp\ColoredItems(Generics)\obj\Debug\net6.0\refint\ColoredItems(Generics).dll
+C:\Users\mendo\Documents\playersGuideCsharp\ColoredItems(Generics)\obj\Debug\net6.0\ColoredItems(Generics).pdb
+C:\Users\mendo\Documents\playersGuideCsharp\ColoredItems(Generics)\obj\Debug\net6.0\ColoredItems(Generics).genruntimeconfig.cache
+C:\Users\mendo\Documents\playersGuideCsharp\ColoredItems(Generics)\obj\Debug\net6.0\ref\ColoredItems(Generics).dll
