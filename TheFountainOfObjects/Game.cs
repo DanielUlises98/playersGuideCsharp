@@ -8,5 +8,14 @@ namespace TheFountainOfObjects
 {
     internal class Game
     {
+        public World worldGame { get; set; }
+        public Game(World worldGame)
+        {
+            this.worldGame = worldGame;
+        }
+        public void Start()
+        {
+            worldGame.CreateWorld();
+        }
     }
 }

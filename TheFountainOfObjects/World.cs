@@ -21,13 +21,6 @@ namespace TheFountainOfObjects
 
         public void CreateWorld()
         {
-            for (int x = 0 ; x <= GridWorld.GetLength(0); x++)
-            {
-                for (int y = 0; y <= GridWorld.GetLength(1); y++)
-                {
-                    GridWorld[x, y] = 0;
-                }
-            }
             GridWorld[fountainCoordinates.GetX, fountainCoordinates.GetY] = RoomType.FountainRoom;
             GridWorld[exitCoordinates.GetX, exitCoordinates.GetY] = RoomType.ExitRoom;
         }

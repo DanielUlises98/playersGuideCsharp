@@ -1,0 +1,15 @@
+C:\Users\mendo\Documents\playersGuideCsharp\TheFountainOfObjects\bin\Debug\net6.0\TheFountainOfObjects.exe
+C:\Users\mendo\Documents\playersGuideCsharp\TheFountainOfObjects\bin\Debug\net6.0\TheFountainOfObjects.deps.json
+C:\Users\mendo\Documents\playersGuideCsharp\TheFountainOfObjects\bin\Debug\net6.0\TheFountainOfObjects.runtimeconfig.json
+C:\Users\mendo\Documents\playersGuideCsharp\TheFountainOfObjects\bin\Debug\net6.0\TheFountainOfObjects.dll
+C:\Users\mendo\Documents\playersGuideCsharp\TheFountainOfObjects\bin\Debug\net6.0\TheFountainOfObjects.pdb
+C:\Users\mendo\Documents\playersGuideCsharp\TheFountainOfObjects\obj\Debug\net6.0\TheFountainOfObjects.csproj.AssemblyReference.cache
+C:\Users\mendo\Documents\playersGuideCsharp\TheFountainOfObjects\obj\Debug\net6.0\TheFountainOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mendo\Documents\playersGuideCsharp\TheFountainOfObjects\obj\Debug\net6.0\TheFountainOfObjects.AssemblyInfoInputs.cache
+C:\Users\mendo\Documents\playersGuideCsharp\TheFountainOfObjects\obj\Debug\net6.0\TheFountainOfObjects.AssemblyInfo.cs
+C:\Users\mendo\Documents\playersGuideCsharp\TheFountainOfObjects\obj\Debug\net6.0\TheFountainOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\mendo\Documents\playersGuideCsharp\TheFountainOfObjects\obj\Debug\net6.0\TheFountainOfObjects.dll
+C:\Users\mendo\Documents\playersGuideCsharp\TheFountainOfObjects\obj\Debug\net6.0\refint\TheFountainOfObjects.dll
+C:\Users\mendo\Documents\playersGuideCsharp\TheFountainOfObjects\obj\Debug\net6.0\TheFountainOfObjects.pdb
+C:\Users\mendo\Documents\playersGuideCsharp\TheFountainOfObjects\obj\Debug\net6.0\TheFountainOfObjects.genruntimeconfig.cache
+C:\Users\mendo\Documents\playersGuideCsharp\TheFountainOfObjects\obj\Debug\net6.0\ref\TheFountainOfObjects.dll
